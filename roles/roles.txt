@@ -1,0 +1,9 @@
+geerlingguy.mysql
+ hash: 68fad51
+ tag: 2.8.0
+ repo: https://github.com/geerlingguy/ansible-role-mysql.git
+
+guisea.automysqlbackup
+ hash: 71a6e8e
+ tag: N/A
+ repo: https://github.com/guisea/ansible-role-automysqlbackup.git
