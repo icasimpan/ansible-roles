@@ -1,3 +1,6 @@
 [submodule "roles/guisea.automysqlbackup"]
 	path = roles/guisea.automysqlbackup
 	url = https://github.com/guisea/ansible-role-automysqlbackup.git
+[submodule "roles/geerlingguy.mysql"]
+	path = roles/geerlingguy.mysql
+	url = https://github.com/geerlingguy/ansible-role-mysql
